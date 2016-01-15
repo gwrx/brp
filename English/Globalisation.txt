@@ -5,10 +5,10 @@ Creation-Date: 2016-01-15T14:56:24+01:00
 ====== Globalisation ======
 Created Friday 15 January 2016
 
-//What is globalisation?//
+==== 1. What is globalisation? ====
 Everyone worldwide (countries, companies, individuals) are getting connected to each other to build a better world (more or less) without any boundries or walls.
 
-//What events occurred to result in the world 'shrinking'?//
+==== 2. What events occurred to result in the world 'shrinking'? ====
 The **internet** happened.
 **transport** development
 **open** borders
@@ -17,7 +17,7 @@ government **support**
 relative time of **peace**
 more **cooperation** between countries (jWorld Trade Organisation, World Bank, I.M.F., G7, UN, G2O)
 
-//What do we do more of in a globalised world?//
+==== 3. What do we do more of in a globalised world? ====
 * communicate more with people in other countries
 * travel more
 * more interest in foreign cultures
@@ -39,9 +39,12 @@ more **cooperation** between countries (jWorld Trade Organisation, World Bank, I
 * International sport events (e.g. World Cup)
 * Socialise cross-culturally
 
-//Positives / Negatives of Globalisation (p. 116)//
+==== 4. Positives / Negatives of Globalisation (p. 116) ====
 
-//Issues: Positives / Negatives for Doveloping Countries//
+
+==== 5. Issues: ====
+
+=== Positives / Negatives for Doveloping Countries ===
 * positives
 	* new jobs
 	* micro credits
@@ -59,3 +62,77 @@ more **cooperation** between countries (jWorld Trade Organisation, World Bank, I
 	* blood diamonds
 	* more poverty
 	* "bubble effect"
+
+=== Outsourcing ===
+→ see "Working World"
+
+=== Positives / Negatives for the Environment ===
+* Positives
+	* stable currencies
+	* econimic growth
+	* new laws
+	* increase of consumption
+	* increase of travel / tourism
+* Negatives
+	* air pollution due to less restrictive laws for companies
+	* air pollution due to more traffic
+	* water pollution due to production plants
+	* deforestation
+	* deserting
+	* destroying the ground
+
+=== Positives / Negatives for the Culture ===
+* Positives
+	* more interest
+	* more openess
+	* increased tolerance
+	* more cultural knowledge
+	* make money with foreign cultures
+	* more diversity
+* Negatives
+	* Big influence of the culture into politics
+	* closing down the country to "protect" their culture (e.g. arabs)
+	* intolerance
+	* some cultures withhold the increasing new technologies
+	* overrated religions
+	* small traditions / cultures die out
+
+=== Gap between Rich & Poor ===
+* gap is getting bigger
+	* due to financial trading
+	* due to unfair tax laws
+	* not sharing the profit made by outsourcing with the country they outsourced to
+
+===== 6. International Organisations: =====
+
+==== WTO ====
+* 153 Member Countries
+* founded in 1995 in Geneva
+* Main aim: To bring countries, trade, fair trade for everyone
+* Problems: 
+	* Powerful members: US, EU, Japan
+	* meet in a "Green Room" and make decitions
+	* these decitions are absolute - these have to be made
+
+==== IMF & World Bank ====
+* IMF founded in 1944
+* Aims: help countries in economic countries, tackle financial crises
+* Problems:
+	* IMF is lead by an american
+	* World Bank is lead by an european
+	* helped countries become dependant to the IMF/World Bank
+
+==== G7 ====
+* Aim: War, Deseases, Energy, Politics, Famon
+* Always focus on financial issues
+* They represent the interests of their member countries
+
+=== Problems of all of these organisations: developing countries are excluded, their interests are not represented ===
+
+===== 7. Solutions? =====
+* build up an international knowledge base
+* educate every human being
+* bring all of the representants of all countries together
+* intelligent, international laws
+* tear down financial interests
+* build up environment friendly industry where people need work
