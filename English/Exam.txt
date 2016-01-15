@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-05T11:02:36+01:00
+
+====== Exam ======
+Created Saturday 05 December 2015
+
+The situation:
+You are a consultant from "Go Green", an agency that helps businesses becomre more environmentally friendly. You have been aske to give a presentation to the managers of McDonalds in Tirol (=examiners) on how they can make their restaurants more environmentally friendly.
+
+Part 1:
+* Give a presentation on tips for how McDonalds restaurants can be more environmentally friendly
+	* cook to order
+	* reduce usage of fat
+	* eatable packaging (i.e. for ice cream)
+* Use your own ideas as well as ideas from the attached text "The body shop"
+
+
+* Introduction
+	* You are not green enough!
+	* Who I am
+	* What we do
+	* What I am talking about
+		* 3 Ideas to get greener
+* Body
+	* Idea 1: cook to order → no more wasting good food
+		* reduce waste by 75% instantly
+		* customers will wait for good quality & fresh food
+	* Idea 2: reducing fat → use hot air to cook
+		* less fat → more healthy → more customers
+		* more sells: feeling of beeing full comes later
+	* Idea 3: eatable packaging → rice paper; ice cream waffels
+		* love the waffels
+			* tastey, crunchy
+		* get them back! pretty please!
+* Conclusion
+	* Thank you
+	* questions?

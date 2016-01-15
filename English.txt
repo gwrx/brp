@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-04T13:35:29+02:00
+
+====== English ======
+Created Saturday 04 July 2015
+
+Exam Topics
+
+[[file:///Working%20World|/Working World]]
+[[file:///Giving%20Advice|/Giving Advice]]
+
+
+===== Main Grammar =====
+
+* Present Perfect
+	* keywords:
+		* just
+		* already
+		* for/since
+		* ever
+		* never
+		* yet
+		* how
+			* much
+			* many
+			* often
+		* up till now
+	* use
+		* happened in recent past, effect on now
+		* unfinished time
+		* for/since
+		* no V-ing form 
+	* e.g.
+		* I've known my best friend since school.
+* Present Perfect Continous
+	* keywords:
+		* for/since
+		* how long... (up till now)
+	* use
+		* started in the past and it's not over
+		* used with
+			* 'how long...?'
+			* 'for/since'
+	* e.g.
+		* I've been libing in Sistrans since 2014

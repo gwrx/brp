@@ -1,0 +1,126 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-11-14T10:10:50+01:00
+
+====== Media ======
+Created Saturday 14 November 2015
+
+===== E-tailing / E-commerce =====
+1. Advantages & Disadvantages of online shopping (customer's perspective)
+	a. Advantages
+		1. huge variety
+		2. cheap prices
+		3. simple search
+		4. send it back
+		5. you can have it earlier sometimes
+		6. quality
+	b. Disadvantage
+		1. service
+		2. can't touch it
+		3. fake shops / fake products
+		4. it's not guaranteed that you get what you paid for
+		5. damage while delivery
+		6. you have to wait for your order
+		7. you can't really check on the quality
+
+2. T.B. p#62 #1-6 shopping apps
+3. What makes a good app?
+4. comaptible an all mobile devices
+5. secure 
+6. no ads
+7. does not want access to things it doesn't need
+8. transparent to what data is sent home
+9. easy to handle / navigate
+10. no unnecessary notifications
+11. doesn't run in the background when it's not needed
+12. should be for free
+13. product reviews / feedback
+14. appropriate colours
+15. information
+	* photos
+	* videos
+	* text
+16. store information
+	* location
+	* opening times
+	* contact details
+17. product details
+	* in stock / availability
+	* price
+
+==== App Presentation ====
+The situation: You work for an app design company & have been asked to present a proposal on how you would improve a company's app to increase downloads/user numbers. You are to present your ideas to the board of Directors of the company
+
+Struckture:
+* Intro
+	* hook
+	* objective
+	* outline
+* body
+	* assess problems with the app
+	* make suggestions for how to improve the app
+	* evaluate why these changes will benefit the company
+* conclusion
+	* summary
+	* call for action (you want them to hire you!)
+	* closing
+	* questions?
+
+benjaminsillober@gmail.com
+
+===== Communication =====
+
+==== Presentations ====
+1. Choose App
+2. Decide on major problems (e.g. structure / missing features/ functionality etc.)
+3. Divide responsibilities:
+	a. Introduction / Problem / Solutions
+	b. Conclusion / Problem / Solutions
+4. Powerpoint? —> Benjamin
+5. Evaluation
+
+Tinder
+* no search option for personal details
+* communication to your servers is not encrypted
+
+==== Introduction (Matthias) ====
+We are security researchers, Company Name: LOLsec
+Benjamin is our usability researcher
+Matthias is our security researcher
+
+==== Benjamin: Usability ====
+* lack of detailed search
+* people wont find each other effectively
+* people get frustrated easily
+* without higher matches users wont use the app as much
+* solution: good search function
+	* more satisfaction
+	* more users
+	* more ROI (return of investment)
+
+==== Matthias: Security ====
+* Connections are plain text
+* passwords are easily to catch
+* successful hacking attempts in the past
+* personal informations are not safe
+* easily connectable to your personal facebook profile
+	* track down of people / stalking
+	* social engineering is possible
+	* identity theft is possible
+* solution: encrypt the data connections
+	* higher security leads to more user trust
+	* it's your responsibility to secure user data
+	* prevent bad press
+
+==== Conclusion (Benjamin) ====
+* with us as partners
+	* better app, better ratings
+	* access to advanced know-how
+	* more value as a company
+	* more interesting against competitors
+
+==== Thanks and good by (Matthias) ====
+	* for questions, we are available
+	* looking forward for a long lasting partnership
+	* thx and good by
+

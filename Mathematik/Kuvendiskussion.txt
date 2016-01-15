@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-07-02T00:54:33+02:00
+
+====== Kuvendiskussion ======
+Created Thursday 02 July 2015
+
+====== Rechenregeln für die Ableitung ======
+
+Summenregel: (f(x)+g(x))' = f'(x)+g'(x)
+{{./equation005.png?type=equation}}
+
+Multiplikationsregel: (alpha * f(x))' = alpha * f'(x)
+{{./equation006.png?type=equation}}
+
+Produktregel: (f(x) * g(x)) = f'(x) * g(x) + f(x) * g'(x)) (Wird aber nicht gebraucht)
+
+Produktregel -> Multiplikationsregel
+
+====== Ableitungsregel für Potenzfunktionen ======
+
+
+{{./equation.png?type=equation}}
+
+{{./equation001.png?type=equation}}
+{{./equation002.png?type=equation}}
+
+Beispiel: f(x) = x^2
+Ableitung: (x^2)' = 2x
+
+{{./gnuplot001.png?type=gnuplot}}
+
+
+{{./equation003.png?type=equation}}
+
+{{./equation004.png?type=equation}}
+
+
+Ableiten mit dem Taschenrechner: in [Y=] Y2= → [MATH] → nDeriv (dann → VARS → Y= → Y1) → ( Y1, X, X ) [1. X = was abgeleitet werden soll, 2. X = an welcher Stelle]

@@ -1,0 +1,56 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-17T08:48:34+02:00
+
+====== Grammar ======
+Created Saturday 17 October 2015
+
+===== Relative Clauses =====
+
+(p. 126 #5)
+→ put it directly after the subject.
+that
+when
+who (e.g. "This is the girl. I met her last week." → "This is the girl who I met last week.")
+which (e.g. "The pen I bought last week is already broken." → "The pen, which I bought last week, is already broken."
+whose = possession (e.g. "This is the man. I hit his car." → "This is the man whoose car I hit."
+whom
+
+==== Exercise ====
+1. The river which is called Seine flows through Paris.
+2. We haven't got a fishing licence, which means we can't fish here
+3. Hurricane "Katrina", which destroyed New Orleaans in 2005, was the worst storm ever.
+4. The battle, which happened in 1746, changed the history of Scotland.
+5. Who are these children who are making this noise?
+6. Where are the guests who we want to meet.
+7. Abraham Lincoln, who was shot in 1865, was the 16th president of the US
+8. The photo shows my grandfahter, who died in 1995.
+9. Joggers have found the old man who disappeared two days ago.
+10. We asked a policeman, who was standing outside the bank, when we couldn't find our way.
+11. The answerphone, which dad bought it only last week, doesn't work.
+12. We sometimes visit our friends in Reading, which is a few miles west of London.
+13. What's the name of the girl who we met at he concert on Friday.
+14. Selma Jones, who is our new badminton coach, is one of Mum's oldest friends.
+15. Is he the man who wants to buy our car?
+
+20. The woman, whose cat disappeared, wants to put up posters everyway.
+
+22. A man, whose name I have forgotten, has called three times this morning.
+
+===== Conditionals =====
+
+Zero Conditional (when it's always the case)
+if ... (present simple), (present simple)
+e.g. If it snows, it is cold.
+
+First Conditional (present/future)
+if ... (present simple), will/won't/can/will have to...
+e.g. If it snows tomorrow, we won't go biking.
+
+Second Conditional (imagined for the present)
+if ... (past simple/progressive), would/wouldn't/could/should/had to....
+e.g. If it wasn't raining, the streets would be dry.
+
+Third Conditional (imagined for the past)
+if ... (past perfect), would/have (verb in 3rd form)
+e.g. If you had been willing to compromise, we would have had a deal.

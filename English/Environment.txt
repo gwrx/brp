@@ -1,0 +1,274 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-12-04T15:00:13+01:00
+
+====== Environment ======
+Created Friday 04 December 2015
+
+Word List
+
+* overpopulation
+* energy crisis
+* emmission
+* greenhouse gases
+* solar energy
+* wind tourbines
+* rare earth
+* smog
+* global warming
+* fossil fuels (wood, oil, gas, coal)
+* climate summit
+* nuclear waste
+* carbon tax 
+* clean energy transition
+* renewable energy
+* natural disasters (earthquakes, tsunamis, floods, thunderstorms, etc.)
+* sustainable
+* over-fishing
+* pollusion
+* waste (radioactive, domesitc/household, industrial, medical)
+* acid rain
+* hydro power
+* geothermal fuels
+* consumption
+* extinction
+* plague
+* forest fire / wildfire
+* famine (starvation)
+
+==== Film ====
+"The Age of Stupid"
+
+* foods
+* expanding deserts
+* no more glaciers
+* no arctic ice
+
+causes:
+the run for cheap resources (such as oil)
+it's all about the money, power
+political influence / corruption
+energy consumption
+climate change
+overconsumption
+transport & travel
+abuse of developing countries
+
+effects:
+floods, famine, illnesses, heatwaves, poverty, global warming, death, war, pollution, 
+natural disasters, sea temp. rises (effects the marine life), melting of the polar caps & glaciers, golf stream slows down
+deserts expand, more droughts, loss of animal habitat → extinction, plants dry out and die, more poverty, less soil quality, more illness / disease
+
+solutions
+wind energy, solar energy, political change
+renewable energy, recycle, recycled products, carbon off-setting
+
+Definition of "Global Warming"
+Man-made effect of using fossil fuels, polluting the atmosphere with it causing a warm up of seawater and atmosphere.
+
+Greenhouse Gases
+Gases like CO2, methane
+
+"Greenhouse effect"
+Gases like CO2 or methane that cause the heat reflecting ability of the atmosphere to drop.
+
+Effects
+* melting of ice-caps
+* floods
+* forest fires
+* animal attacks
+* spread of disease
+* intensity / occurance of natural disasters & storms
+* loss of bio-diversity / animal extinction
+* less food & water supply
+
+How to reduce energy consumption
+
+Residential:
+* grow your own vegetables
+* support local farmers
+* reduce waste & foodwaste
+* better insulation
+* natural lighting
+* reduce heating
+* reduce water consumption
+* catch or collect your own food (hunter / farmer)
+
+Commercial
+* sustainbale energy
+* recyclable packaging / reduce packaging
+* LED lights
+* solar heating
+* car sharing
+* public transportation
+* good insulation
+* digital advertising
+* small offices
+* photovoltaic energy
+
+Industrial
+* use new machines (energy efficient)
+* produce locally / near resource source
+* insulate the building
+* build at the right place
+* energy saving bulbs
+* natural light
+* use electric vehicles / trains
+* local production
+* use public transport / car sharing
+* go by foot / bicycle
+
+Transportation
+* renewable energy
+* low emission 
+* transport on railways
+* car sharing
+* public transport
+* efficient packaging
+* road train
+* working from home
+* short work distances
+* work locally
+* shop locally
+* efficient transport routes
+
+=== Renewable Energy ===
+* Hydropower
+* Solar
+* Wind
+* Geothermal
+* Biofuel / Biomass
+
+=== Pollution ===
+Types:
+
+Air:
+* Transport
+* Industry
+* Energy production fuels
+* deforestation
+* methane
+* burning of waste
+
+Water:
+* Agriculture (fertilizers)
+* Waste / Garbage
+* Sea transport
+* Industry (chcemical waste
+* Air pollution
+* Sewerage / Hygiene
+* Natural disasters
+* Cleaning products ( personal hygiene products
+* Oil drilling
+
+Soil:
+* Agriculture (fertilizers)
+* Waste / Garbage
+* Sea transport
+* Industry (chcemical waste
+* Air pollution
+* Sewerage / Hygiene
+* tourism
+* acid rain
+
+Noise:
+* Inustry
+* Transport
+* Cities
+* Entertainment
+
+Light:
+* Street lighting
+* Buildings (esp. skyscrapers)
+* E-Boards (advertising)
+* Entertainment (e.g. night-skiing/sport matches)
+* lighting e.g. housing
+* transport
+* festivals
+
+==== 6. Issues ====
+Acid rain: What is it? Causes?
+Resource Exploitation: 
+* Overfishing
+* deforestation
+* abuse of rainforests
+* raw materials
+* food
+* rare materials
+* fossil fuels
+* overconsumption
+
+Rainforest:
+* causes?
+* effects?
+* solutions?
+
+Water Usage:
+* Saving Water?
+	* use rain water / grey water
+	* lower shower time
+	* shower instead of bath
+	* water saving shower head
+	* fully load dishwasher/washing machine
+	* reduce water flow
+	* use a bucket when washing car
+	* half-flush button on toilet
+
+==== Ozone layer ====
+* what is it?
+* why is it important?
+* How are we destroying it?
+	* CFCs
+		* fridges / freezers
+		* aerosols
+		* air conditioners
+* Solutions?
+
+==== Waste ====
+* organic
+* industrial
+* nuclear
+* toxic/chemical
+* household
+* commercial
+* medical
+
+
+===== Practise Exam =====
+The Situtation: You are an environmental expert an you have been asked to give a speech to the UN members (= examiners) on the environment & pollution
+Part 1: In your speech, outline
+* The 5 types of pollution
+* Their causes
+* The effects of pollution
+
+* Welcome
+	* My name is / I am a
+	* Today we are talking about
+		* types of pollution
+		* their causes
+		* their effects
+	* let's dive into it
+* 5 types of pollution
+	* Air pollution
+		* transportation (airplanes, cars)
+		* industry (production, power plants)
+	* water
+		* chemicals (spoiling oil rigs)
+		* aluminium (breaking waste barriers)
+	* soil
+		* agriculture (chemical fertilizers)
+		* tourism (skiing)
+	* noise
+		* highways/trains (a lot of it)
+		* production plants (they can be loud too)
+	* light
+		* billboards (too much in cities)
+		* stadiums (only that bright for TV)
+* the effects
+	* health is affected
+	* global warming
+* what to do about it
+	* we need long-term solutions
+		* invest in ad-campaigns agains overconsumption
+		* invest in research and development
+		* invest in renewable energy

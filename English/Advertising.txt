@@ -1,0 +1,128 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-17T10:50:05+02:00
+
+====== Advertising ======
+Created Saturday 17 October 2015
+
+
+
+Vocab p. 192
+
+===== 7. Forms of Advertising =====
+* Broadcast
+	* Radio
+	* TV
+	* Public Speech / Public announcements
+	* Mail
+	* Cinema
+
+* Print
+	* Newspaper
+	* Flyper
+	* Magazines
+	* Prints on clothes
+	* billboards
+	* stickers
+	* Posters
+	* Milk-box-ads
+	* Graffiti
+	* Books
+	* Junkmail
+	* Businesscards
+	* invoice
+	* Catalogs
+
+* Electronic
+	* Website
+	* Phone
+	* Public Displays
+	* LED-Walls
+	* E-Mail / newsletters
+	* social media
+
+* Other
+	* Mascots
+	* Skywriting
+	* Fairs / Expo
+	* Representatives
+	* Transport e.g. trucks
+	* sponsorship banners
+	* product placement
+	* giveaways
+
+===== 8. What makes an effective ad? =====
+
+* principle of AIDA p. 198 (Attention, Interest, Desire, Action)
+
+===== 9. Tricks & Tools of Advertising =====
+
+1. get higher
+2. get bigger
+3. get louder
+4. use new materials
+5. use new ad channels
+6. big-data advertisment
+7. give better/valuable gifts to customers
+8. be honest (e.g. with feedback)
+9. use unusual ad placements
+10. be unpredictable
+11. celebrity endorsement
+12. images
+13. special effects
+14. repetition
+15. word play
+16. slogan
+17. animals
+18. attractive people
+19. colour
+
+===== 10. Defining Target Market =====
+
+* Age (D)
+* Gender (D)
+* lifestyle (P)
+* race (D)
+* relationship status (D)
+* income (D)
+* stocial status (D)
+	* upper class
+	* middle class
+	* lower class
+* religion (D)
+* nationality (D)
+* hobbies / interests (P)
+* job / occupation (D)
+* education (D)
+* needs (P)
+* desires (P)
+
+→ Demographic (D) vs. Psychographic (P) variables
+
+
+===== Analyzing ads =====
+
+Nespresso:
+Target market: business people with good income, upper middle class, well dressed, 
+Tricks: humour, sexy "volluto", jingle, slogan, "what else" says there is nothing better out there, celebreties
+
+Apple vs. PC:
+Target: young, trendy people, smart people
+Tricks and tools: comparison with windows, funny, 
+
+Johnny Walker: https://www.youtube.com/watch?v=MnSIp76CvUI
+Target market: men, middle age/class, with a taste for good products
+Tricks: length (it's a shortfilm), how the ad is made (in one take), charisma, the true story about this whiskey
+
+Pros/Cons of advertising media:
+
+* Radio
+	* Pro: huge audience, easy to make, cheap
+	* Con: You don't really know who is listening, difficult to make a good ad, 
+* TV:
+	* Pro: huge audience, flexible
+	* Con: You don't really know who is watching, targeting is difficult, not much time
+* Newspaper:
+	* Pro: localized audience, targetting market is possible, deliver "trust", cheap (in comparison with Radio/TV), 
+	* Con: not much space, sometime only b/w print, easy change
+
