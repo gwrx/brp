@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-01-22T16:39:19+01:00
+
+====== Travelling & Tourism ======
+Created Friday 22 January 2016
+
+accommodation → Unterkunft
+to afford something → sich etwas leisten können
+all-in rate → alles inklusive
+arrival → Ankunft
+backpacker → Rucksacktourist
+caravan / trailer → Wohnwagen
+coach → Reisebus
+departure → Abreise
+destination → Ziel
+to discover → entdecken
+explorer → Entdecker
+fare → Fahrpreis
+to go hiking → wandern gehen
+holiday entitlement → Urlaubsanspruch
+journey → Reise
+leisure → Freizeit
+package tour → Pauschalurlaub
+picturesque → malerisch
+recreation → Erholung
+safety → Sicherheit
+self catering → Selbstersorgung
+site → Stätte
+Spa → Wellnessbereich
+travel agency → Reisebüro
+voyage → Seereise
+
