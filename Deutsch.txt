@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-02-05T18:37:13+01:00
+
+====== Deutsch ======
+Created Friday 05 February 2016
+
+Textsorten
+
+Dos für alles: ANGABE!!! Auf Inhalt Bezug nehmen (außer bei Zusammenfassung)
+
+* Leserbrief
+	* Do: persönliche Meinung, Mfg mit Unterschrift, Kontext
+	* Don't: eh wuascht
+* Zusammenfassung 
+	* Do: 
+	* Don't: 
+* Offener Brief
+	* Do: 
+	* Don't: 
+* Empfehlung
+	* Do: 
+	* Don't: 
+* Kommentar
+	* Do: 
+	* Don't: 
+* Meinungsrede
+	* Do: 
+	* Don't: 
+* Textanalyse
+	* Do: 
+	* Don't: 
+* Textinterpretation
+	* Do: 
+	* Don't: 
+* Erörterung
+	* Do: 
+	* Don't: 
+ 
