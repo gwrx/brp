@@ -128,3 +128,5 @@ Future?
 	* get at least an introduction into academic topics
 	* cultural understanding
 	* you should learn how to life
+
+* ideas for reform?
