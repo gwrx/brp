@@ -66,8 +66,6 @@ Struckture:
 	* closing
 	* questions?
 
-benjaminsillober@gmail.com
-
 ===== Communication =====
 
 ==== Presentations ====
@@ -128,6 +126,7 @@ Matthias is our security researcher
 
 1. === Types of Media ===
 
+
 * Broadcast
 	* TV
 	* Radio
@@ -144,6 +143,7 @@ Matthias is our security researcher
 
 2. 
 === Information vs. Entertainment - Where do you go & why? ===
+
 
 
 * Information
@@ -164,6 +164,7 @@ Matthias is our security researcher
 
 3. 
 === Mass Media ===
+
 
 What is mass media? → Information shared to a large number of people
 
@@ -194,6 +195,7 @@ What is mass media? → Information shared to a large number of people
 4. 
 === Financing? ===
 
+
 How is media financed?
 * advertising
 * private ownership
@@ -207,6 +209,7 @@ Truth vs. Profit?
 
 5. 
 === Online newspapers vs. Print ===
+
 
 
 * online
@@ -230,6 +233,7 @@ Future?
 6. 
 === Issues of censorship ('Google' article) ===
 
+
 * What is censored?
 	* information
 	* violence
@@ -246,8 +250,9 @@ Future?
 === Media as a fuel for social change ('Egypt' article) ===
 
 
-8. 
-=== The Rise of the Individual (Citizen Journalism) ('Syria Article) ===
+
+8. === The Rise of the Individual (Citizen Journalism) ('Syria Article) ===
+
 
 * with phones people take/do/write
 	* photos
@@ -271,3 +276,105 @@ Future?
 	* unemployment in journalism
 	* more risk to reporters (i.e. hostage, death)
 
+===== Media =====
+
+=== 1. Types  of media ===
+
+* Broadcast
+	* TV
+	* radio
+	* cinema
+* Print
+	* newspaper
+	* books
+	* magazines
+* Digital/Electronic
+	* internet ( incl. Mobiles)
+	* E-books
+	* mobile phones
+	* video games
+
+=== 2. Information vs Entertainment ===
+Where did you go and why?
+
+=== 3. Mass Media p 30-1 ===
+		 What is it?
+		 +/-
+
+=== 4. Financing? ===
+Truth vs Profit?
+
+=== 5. Online newspaper vs Print   (+/-) ===
+		 Future?
+
+=== 6. Issues of cencorship ===
+(Google article)
+
+* What is cencored? 
+	* Information
+	* violence
+	* pornography
+	* copyright
+	* nudity
+	* political information
+	* harmful/graphical content (esp. for minors)
+	* language
+	* ratings
+
+=== 7. Media as a fuel for social change ( Egypt article) ===
+
+=== 8. The Rise of the Individual ( Citizen Journalism) ( Syria article) ===
+
+* devices use
+* +/-
+                           
+* Positives
+	* avoid cencorship
+	* diferent perspective/ point of view
+	* + Fast (instant)
+	* - costs
+	* anywhere, anytime
+* Negatives
+	* unreliable
+	* manipulated, trustworthy source
+	* internet trolls
+	* no cencorship (sensitive information, violent images etc...)
+	* + unemployment in journalism
+	* + risk to reporters ( hostage, death)
+
+=== 9. Future? ===
+
+
+
+=== Vocabulary: ===
+
+* advertisement             -            Reklame 
+* audience                     -            Publikum
+* to broadcast                   -         ausstrahlen
+* broadsheet                  -            großformatige Zeitung
+* censorship                -              Zensur
+* channel                    -               Fernsehsender
+* circulation               -                Auflage
+* commercial               -              Werbespot
+* to communicate        -               mitteilen
+* copy                          -               Abdruck
+* couch potato              -          Fernsehglotzer/in
+* current affairs             -         aktuelle Angelegenheiten
+* to distribute             -             verteilen
+* documentary             -           Dokumentarfilm
+* entertainment          -             Unterhaltung
+* influence                   -            Einfluss
+* to inform somebody       -       jemanden informieren
+* to manipulate            -            manipulieren
+* media                       -             Medien
+* to merchandise            -          vermarkten
+* news                          -            Nachrichten
+* programme              -             Sendung
+* readership              -               Leserschaft
+* review                    -               Kritik
+* sensationsalism           -          Sensationsgier
+* tabloid                   -                Boulevardzeitung
+* viewer                    -               Zuseher
+
+
+                                              

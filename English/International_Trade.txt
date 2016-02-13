@@ -5,7 +5,8 @@ Creation-Date: 2016-01-09T12:27:18+01:00
 ====== International Trade ======
 Created Saturday 09 January 2016
 
-1. What problems can occur when trading internationally?
+1. === What problems can occur when trading internationally? ===
+
 	a. Time zones
 	b. different languages
 	c. cultural differences
@@ -24,15 +25,21 @@ Created Saturday 09 January 2016
 	p. market knowledge
 	q. infrastructure
 
-2. Why do so many companies expand want to expand into international markets?
+2. 
+=== Why do so many companies expand want to expand into international markets? ===
+
 
 	a. larger customer base
 	b. more profit
 	c. it's all about the money
 
-3. T.B. p. 100
+3. 
+=== T.B. p. 100 ===
 
-4. Tips for exporters
+
+4. 
+=== Tips for exporters ===
+
 mistakes:
 * not using credit agencies
 * not being flexible enough to modify your product
@@ -52,7 +59,9 @@ lessons:
 * take your potential clients seriously
 * be informed
 
-5. Credit agencies
+5. 
+=== Credit agencies ===
+
 
 	1. information & insurance
 		a. manage credit risk
@@ -63,7 +72,9 @@ lessons:
 	5. trade on open account
 	6. on average between 0,25 and 1 % of sales
 
-6. Types of payment
+6. 
+=== Types of payment ===
+
 
 	1. open account
 	2. Letters of credit
@@ -72,7 +83,9 @@ lessons:
 	5. open account
 	6. advance payment
 
-7. Vocab (p. 102)
+7. 
+=== Vocab (p. 102) ===
+
 
 issue / settle / query an invoice
 provide / load / ship goods

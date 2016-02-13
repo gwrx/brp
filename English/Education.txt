@@ -1,0 +1,94 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-02-13T09:55:58+01:00
+
+====== Education ======
+Created Saturday 13 February 2016
+
+=== Austrian School System ===
+
+* Childcare
+	* at home
+	* private
+* Kiindergarten
+	* 3-5 years old
+	* compulsory from 4 years old
+	* public or private
+* Preschool
+	* Public
+* Primary School
+	* Public
+	* Private
+* Secondary Education
+	* Secondary modern School (10-14 years)
+	* Middle School (10-14 years)
+	* Grammar School (10-18 years) → A-Level
+* Further Education
+	* Polytechnical College (14-15 years old)
+		* compulsory 9th year
+	* Secondary Technical College (3-5year programme)
+	* commercial college
+	* tourism school
+	* etc.
+	* Apprenticeship (15-18 years old)
+
+=== UK School System ===
+
+* Childcare
+	* at home
+	* private
+	* Public (from 3 month old)
+* Kindergarden (4-5 years old)
+	* Private
+	* State/Public
+* Primary-/Infantschool (5-7 years old)
+	* Private or public
+* Junior School (5-10 years old)
+	* Private or public
+* or commbined Infant/Junior School (5-10 years old)
+	* Private or Public
+* Secondary School
+	* GCSE's (up to 50 subjects to choose)
+		* Comprehensive School (11-16 years old)
+			* Often specialized e.g. sport/music/art
+			* 90% of students
+		* Secondary modern School (11-16 Years old)
+			* more practical focus
+		* Grammar School (11-16 years old)
+			* entrance exam
+* Further Education
+	* 6th Form College (16-18 years old)
+	* Further Education College
+	* Specialised College
+	* 6th & 7th Form (16-18 years old) → A-Level
+* University
+
+
+=== Differences between the both Systems: ===
+
+* Childcare
+	* public (UK) / private (AUT) (partly subsidised)
+	* Age from 3 month old (maternity leave) - normally 6 month (UK) from 2 years old normal (AUT
+* Parent
+	* raises the child by them own
+	* see the child grow up
+	* in Austria it is not subsidised, so you save money
+* Institute
+	* more time for parents/both can work
+	* better education, because there are trained staff
+
+=== School Systems: Private vs. Public ===
+* Private
+	* more options/subjects
+	* smaller classes
+	* more quality
+	* more support
+	* more education for teachers
+	* less behavior problems
+	* better facilities
+
+=== Future? ===
+
+General School vs. Specialized School
+* main / compulsory
+* optional / elective subjects
